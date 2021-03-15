@@ -2,7 +2,7 @@ input.onLogoEvent(TouchButtonEvent.Pressed, function () {
     basic.showLeds(`
         . . . . .
         . . # . .
-        . # . # .
+        . # # # .
         . . # . .
         . . . . .
         `)
